@@ -19,9 +19,6 @@ pad_ids = {
     'EleutherAI/gpt-neo-2.7B': 50256,
     'EleutherAI/gpt-j-6b': 50256,
     'togethercomputer/GPT-JT-6B-v1': 50256,
-    'EleutherAI/gpt-neox-20b': 50256,
-    'togethercomputer/GPT-NeoXT-Chat-Base-20B': 50256,
-    'cerebras/Cerebras-GPT-13B': 50256,
     'chavinlo/alpaca-native': 0,
     'chavinlo/alpaca-13b': 0
 }
@@ -32,9 +29,6 @@ max_lengths = {
     'EleutherAI/gpt-neo-2.7B': 2047,
     'EleutherAI/gpt-j-6b': 2047,
     'togethercomputer/GPT-JT-6B-v1': 2047,
-    'EleutherAI/gpt-neox-20b': 2047,
-    'togethercomputer/GPT-NeoXT-Chat-Base-20B': 2047,
-    'cerebras/Cerebras-GPT-13B': 2047,
     'chavinlo/alpaca-native': 2047,
     'chavinlo/alpaca-13b': 2047
 }
