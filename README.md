@@ -7,3 +7,6 @@ Contact person: Sheng Lu
 https://www.ukp.tu-darmstadt.de/
 
 https://www.tu-darmstadt.de/
+
+## evaluation scores
+See [results](https://github.com/boblus/in-context-pvi/blob/main/results.csv) for the configurations and evaluation scores of our experiments.
