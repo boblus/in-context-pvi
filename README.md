@@ -10,3 +10,17 @@ https://www.tu-darmstadt.de/
 
 ## evaluation scores
 See [results](https://github.com/boblus/in-context-pvi/blob/main/results.csv) for the configurations and evaluation scores of our experiments.
+
+## citation
+Please use the following citation:
+
+```
+@misc{lu2023measuring,
+      title={Measuring Pointwise $\mathcal{V}$-Usable Information In-Context-ly}, 
+      author={Sheng Lu and Shan Chen and Yingya Li and Danielle Bitterman and Guergana Savova and Iryna Gurevych},
+      year={2023},
+      eprint={2310.12300},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
